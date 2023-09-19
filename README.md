@@ -1,7 +1,10 @@
 # Pizza Shop
 
-Description: Startup Project for basic operations with .Net application with C#.
-Relation: https://learn.microsoft.com/en-us/users/girayturker-0276/transcript/d9r4rc2081n039m
+Description: 
+- Startup Project for basic operations with .Net application with C#.
+
+Relation: 
+- https://learn.microsoft.com/en-us/users/girayturker-0276/transcript/d9r4rc2081n039m
 
 Enviromental Tools:
 - IDE: Visual Studio Code
