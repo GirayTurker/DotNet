@@ -11,7 +11,6 @@ Enviromental Tools:
 - SDK: .Net 7.0
 
 
-
 Project Abstract: 
 - Create a web API project
 
@@ -22,6 +21,9 @@ Project Abstract:
 - Add a controller
 
 - CRUD actions in ASP.NET Core
+
+Relation:
+- https://learn.microsoft.com/en-us/users/girayturker-0276/transcript/d9r4rc2081n039m
 
 
 
