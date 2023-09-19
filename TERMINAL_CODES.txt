@@ -1,0 +1,20 @@
+//to run dotnet
+- run dotnet
+
+//to run dotnet in httprepl terminal
+- New Terminal
+- dotnet tool install -g Microsoft.dotnet-httprepl
+  
+  	
+ 
+//httprepl will be the new terminal
+- connect https://localhost:7002 or httprepl https://localhost:7002
+- ls
+- cd WeatherForecast 
+- get
+- exit
+
+//to add pizza over httpprepl
+- ls
+- cd pizza
+- post -c "{"name":"Meatlower","isGlutenFree":false}"
