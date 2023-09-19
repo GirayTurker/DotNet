@@ -2,9 +2,8 @@
 
 Description: 
 - Startup Project for basic operations with .Net application with C#.
-
-Relation: 
-- https://learn.microsoft.com/en-us/users/girayturker-0276/transcript/d9r4rc2081n039m
+- Add and Remove exiting item from stored data in project.
+- Update existing item from stored data in project.
 
 Enviromental Tools:
 - IDE: Visual Studio Code
