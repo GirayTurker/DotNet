@@ -10,7 +10,6 @@ Enviromental Tools:
 - Framework: .Net
 - SDK: .Net 7.0
 
-
 Project Abstract: 
 - Create a web API project
 
