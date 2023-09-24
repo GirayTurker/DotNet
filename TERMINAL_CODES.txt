@@ -18,3 +18,16 @@
 - ls
 - cd pizza
 - post -c "{"name":"Meatlower","isGlutenFree":false}"
+
+//Entity Framework 
+
+- dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+/*adds the NuGet package that contains the EF Core SQLite database provider and all its dependencies, 
+including the common EF Core services.*/
+
+- dotnet add package Microsoft.EntityFrameworkCore.Design
+/*adds packages that are required for the EF Core tools.*/
+
+- dotnet tool install --global dotnet-ef
+- dotnet tool update --global dotnet-ef //to update existing dotnet ef
+/*installs dotnet ef, the tool you'll use to create migrations and scaffolding.*/
