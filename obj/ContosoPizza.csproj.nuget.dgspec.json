@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ONE-DRIVE\\OneDrive - Temple University\\Desktop\\C#_Basics\\ContosoPizza\\ContosoPizza.csproj": {}
+    "d:\\ONE-DRIVE\\OneDrive - Temple University\\Desktop\\C#_Basics\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "D:\\ONE-DRIVE\\OneDrive - Temple University\\Desktop\\C#_Basics\\ContosoPizza\\ContosoPizza.csproj": {
+    "d:\\ONE-DRIVE\\OneDrive - Temple University\\Desktop\\C#_Basics\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ONE-DRIVE\\OneDrive - Temple University\\Desktop\\C#_Basics\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "d:\\ONE-DRIVE\\OneDrive - Temple University\\Desktop\\C#_Basics\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "D:\\ONE-DRIVE\\OneDrive - Temple University\\Desktop\\C#_Basics\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "d:\\ONE-DRIVE\\OneDrive - Temple University\\Desktop\\C#_Basics\\ContosoPizza\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\giray\\.nuget\\packages\\",
-        "outputPath": "D:\\ONE-DRIVE\\OneDrive - Temple University\\Desktop\\C#_Basics\\ContosoPizza\\obj\\",
+        "outputPath": "d:\\ONE-DRIVE\\OneDrive - Temple University\\Desktop\\C#_Basics\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giray\\AppData\\Roaming\\NuGet\\NuGet.Config",
