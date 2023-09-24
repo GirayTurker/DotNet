@@ -21,6 +21,12 @@ Project Abstract:
 
 - CRUD actions in ASP.NET Core
 
+- Set up a migration
+
+- Interact with data
+
+- Reverse-engineer from an existing database
+
 Relation:
 - https://learn.microsoft.com/en-us/users/girayturker-0276/transcript/d9r4rc2081n039m
 
